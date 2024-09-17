@@ -270,7 +270,7 @@ header nav .form i {
     height: 600px;
     position: relative;
     background-size: cover;
-    background-image: url("images/back-cover3.png");
+    /* background-image: url("images/back-cover3.png"); */
     display: flex;
     align-items: center;
     overflow: hidden;
@@ -458,7 +458,7 @@ header nav .form i {
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
     text-align: center;
-    background-image: url("images/back-cover2.png");
+    /* background-image: url("images/back-cover2.png"); */
     background-size: cover;
     position: relative;
 }
@@ -636,7 +636,7 @@ header nav .form i {
 .quote {
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image: url("images/back-cover3.png");
+    /* background-image: url("images/back-cover3.png"); */
     background-size: cover;
     position: relative;
     text-align: center;
@@ -750,7 +750,7 @@ header nav .form i {
 .subscribe {
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image: url("images/back-cover2.png");
+    /* background-image: url("images/back-cover2.png"); */
     background-size: cover;
     position: relative;
     color: var(--transparent-color);
@@ -892,7 +892,7 @@ header nav .form i {
 .footer {
     padding-top: calc(var(--sec-padding ) / 2 );
     padding-bottom: calc(var(--sec-padding) / 2 );
-    background-image: url("images/back.jpg");
+    /* background-image: url("images/back.jpg"); */
     background-size: cover;
     position: relative;
     color: var(--transparent-color);
